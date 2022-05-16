@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pbonnaud
-- 👀 I’m interested in molecular simulations
+- 👀 I’m interested in molecular simulations and molecular modeling.
 - 🌱 I’m currently learning how to use github and to make it efficient
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

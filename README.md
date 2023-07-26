@@ -2,7 +2,7 @@
 - 👀 I’m interested in molecular simulations and molecular modeling.
 - 🌱 I’m currently learning how to use github and to make it efficient
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: bonnaud.business@gmail.com
 
 <!---
 pbonnaud/pbonnaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
